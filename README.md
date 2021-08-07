@@ -1,16 +1,20 @@
 # gym_app
 
-A new Flutter project.
+Fitness App developed with Flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project good example for SQLite database in Flutter.
 
-A few resources to get you started if this is your first Flutter project:
+Tested On : 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- MacOs
+- Web App
+- iPhone Simulator
+- Android 10 (Real Device)
+- Android 10 Emulator
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ui taken by https://dribbble.com/shots/2123029-Free-PSD-Fitness-App-Ui-Kit 
+
+Special Thanks.
+- https://dribbble.com/bugradere
