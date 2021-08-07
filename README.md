@@ -21,14 +21,14 @@ Special Thanks.
 
 ScreenShots
 - SplashScreen
-![Screenshot](screenshots/splashscreen.png)
+![Screenshot](screenshots/splashscreen.png | width=100)
 
 - ExerciseList
-![Screenshot](screenshots/exercises.png)
+![Screenshot](screenshots/exercises.png | width=100)
 
 - programList
-![Screenshot](screenshots/programList.png)
+![Screenshot](screenshots/programList.png | width=100)
 
 - Play
-![Screenshot](screenshots/programPlay.png)
-![Screenshot](screenshots/programPlay2.png)
+![Screenshot](screenshots/programPlay.png | width=100)
+![Screenshot](screenshots/programPlay2.png | width=100)
