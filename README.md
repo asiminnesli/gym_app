@@ -21,7 +21,7 @@ Special Thanks.
 
 ScreenShots
 - SplashScreen
-![](screenshots/splashscreen.png| width=100)
+```html <img src="screenshots/splashscreen.png" width="300">```
 
 
 - ExerciseList
