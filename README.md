@@ -21,7 +21,7 @@ Special Thanks.
 
 ScreenShots
 - SplashScreen
-```html <img src="screenshots/splashscreen.png" width="300">```
+<img src="screenshots/splashscreen.png" width="300">
 
 
 - ExerciseList
