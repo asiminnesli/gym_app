@@ -25,11 +25,13 @@ ScreenShots
 
 
 - ExerciseList
-![](screenshots/exercises.png | width=100)
+<img src="screenshots/exercises.png" width="300">
 
 - programList
-![Screenshot](screenshots/programList.png | width=100)
+
+<img src="screenshots/programList.png" width="300">
 
 - Play
-![Screenshot](screenshots/programPlay.png | width=100)
-![Screenshot](screenshots/programPlay2.png | width=100)
+
+<img src="screenshots/programPlay.png" width="300">
+<img src="screenshots/programPlay2.png" width="300">
