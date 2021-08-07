@@ -21,10 +21,11 @@ Special Thanks.
 
 ScreenShots
 - SplashScreen
-![Screenshot](screenshots/splashscreen.png | width=100)
+![](screenshots/splashscreen.png| width=100)
+
 
 - ExerciseList
-![Screenshot](screenshots/exercises.png | width=100)
+![](screenshots/exercises.png | width=100)
 
 - programList
 ![Screenshot](screenshots/programList.png | width=100)
