@@ -31,4 +31,4 @@ ScreenShots
 
 - Play
 ![Screenshot](screenshots/programPlay.png)
-![Screenshot](screenshots/splashscreen.png)
+![Screenshot](screenshots/programPlay2.png)
